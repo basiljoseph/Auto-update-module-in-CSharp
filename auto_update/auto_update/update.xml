@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<application id ="Application.exe">
+	<latestVersion>1.0.0.1</latestVersion>
+	<changeLog>
+		<version id ="1.0.0.0">Added auto update</version>
+		<version id ="0.1.0.0">Added new icon</version>
+		<version id ="0.0.1.0">Initial version</version>
+	</changeLog>
+	<packages>
+		<filename id ="1.0.0.0" md5="b348ae5513674d904f6cd7ae7cb30862">http://localhost:8000/1.0.0.0.zip</filename>
+	</packages>
+</application>
